@@ -1,0 +1,16 @@
+{
+    "name": "zhusaidong/php-class-method-exists",
+    "description": "php class-method-exists",
+    "type": "library",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "zhusaidong",
+            "email": "zhusaidong@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"files":["src/ClassMethodExists.php"]
+    }
+}
